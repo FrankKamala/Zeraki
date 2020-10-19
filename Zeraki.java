@@ -6,7 +6,7 @@ public class Zeraki{
         int skipped = getNumber(k,4);
 
             System.out.println("Missing Number in array is " +skipped);
-        System.out.println("I am Zeraki");
+       // System.out.println("I am Zeraki");
     }
     static int getNumber(int k[], int n){
         int i;
