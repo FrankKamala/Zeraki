@@ -4,4 +4,7 @@ public class Zeraki{
 
         System.out.println("I am Zeraki");
     }
+    static int getNumber(int k[], int n){
+        
+    }
 }
