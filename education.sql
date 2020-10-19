@@ -1,3 +1,4 @@
+/* Create DB*/
 CREATE DATABASE education;
 USE education;
 /* Create Students Table*/
