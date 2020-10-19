@@ -5,6 +5,12 @@ public class Zeraki{
         System.out.println("I am Zeraki");
     }
     static int getNumber(int k[], int n){
+        int i;
+        int totalValue = (n+1)*(n+2)/2;
+        for (i=0;i<n;i++){
+            totalValue -= k[i];
+            return totalValue;
+        }
         
     }
 }
